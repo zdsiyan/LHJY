@@ -1,0 +1,6 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# 编译完的文件
+.ex5
